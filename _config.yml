@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Youssef Agiza # the website title (if blank, full name will be used instead)
+title: Youssef Agizaaa # the website title (if blank, full name will be used instead)
 first_name: Youssef
 middle_name: #R.
 last_name: Agiza
@@ -54,7 +54,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: Youssef-Agiza # your GitHub user name
+github_username: Youssef-Agizaaa # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: YoussefAgiza # your Twitter handle
 linkedin_username: youssef-agiza-248861199 #your LinkedIn user name
@@ -154,7 +154,6 @@ plugins:
   - jekyll/scholar
   - jekyll-sitemap
   - jekyll-target-blank
-  - jekyll-twitter-plugin
   - jemoji
 
 # Sitemap settings
